@@ -1,0 +1,4 @@
+AI-enabled Sales Insights — End-to-end analytics product
+- Built an end-to-end analytics pipeline (ETL → model → REST API → deployable container) to deliver near-real-time sales forecasting and anomaly detection.
+- Implemented modular ETL, feature engineering, and a RandomForest model with model persistence.
+- Packaged service with FastAPI, Docker, and CI/CD workflow; authored technical documentation and a deployable project repository suitable for GitHub.

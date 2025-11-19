@@ -1,0 +1,10 @@
+Suggested Git history (atomic, descriptive):
+1. feat: init repo with README, requirements, and basic structure
+2. feat: add ETL demo and synthetic data generator
+3. feat: add model training module and joblib persistence
+4. feat: add FastAPI endpoints for train/predict/etl/health
+5. chore: add Dockerfile and docker-compose for containerization
+6. ci: add GitHub Actions workflow for tests
+7. docs: add architecture and project report
+8. test: add pytest unit test for model training
+9. docs: add resume-ready project description and commit history
